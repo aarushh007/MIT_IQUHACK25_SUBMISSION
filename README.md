@@ -52,5 +52,3 @@ Using our method and according to this relationship we found, it would take 1201
 
 
 
-
-Visit execution_evidence.md for evidence
