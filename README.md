@@ -8,6 +8,8 @@ Venkat Pasupuletti: saharshvenkatp@gmail.com
 
 Adhitya Vasudevan: adhiv2007@gmail.com
 
+Niranjan Nair: niranjan.nair.email@gmail.com
+
 ## Description
 
 RSA is a really popular encryption method which is used for many applications. It encrypts everything from direct messaging to bank transactions. It involves a public encryption key and a private decryption key. Given the public encryption key, classical algorithms have tried countless times to find the decryption key. The most they could do was __ number, which took 2000 years of processing time. Professor Shor proposed a solution to this problem in the form of Shor's aglorithm, which uses principles of number theory to effectively to factorize large integers. 
