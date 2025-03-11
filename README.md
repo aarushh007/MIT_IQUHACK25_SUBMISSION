@@ -4,7 +4,7 @@ Aarush Hadimani: aarushh007@gmail.com
 
 Hari Palaniyappan: hpalaniyappan@gmail.com
 
-Venkat Pasupuletti: saharshvenkatp@gmail.com
+Venkat Pasupuleti: saharshvenkatp@gmail.com
 
 Adhitya Vasudevan: adhiv2007@gmail.com
 
